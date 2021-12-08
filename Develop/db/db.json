@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+{"notes":[{"title":"Test Title","text":"Test text"},{"title":"Coding","text":"I like coding","id":"1"},{"title":"Name","text":"My name is michael","id":"2"},{"title":"What to bring","text":"Backpack","id":"3"},{"title":"asd","text":"asdasd","id":"4"},{"title":"fff","text":"fff","id":"5"},{"title":"asdsdfs","text":"asdasd","id":"6"},{"title":"moi","text":"sdfs","id":"7"},{"title":"asdasd","text":"asdasd","id":"8"},{"title":"mich","text":"mich","id":"9"}]}
